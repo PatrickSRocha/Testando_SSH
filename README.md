@@ -3,3 +3,4 @@ Repositório criado para fazer testes de autenticações usando o Git e o GitHub
 
 1 - Utilizando a autenticação SSH;
 2 - Configurando e usando a chave SSH no GitHub; 
+3 - Trocando a chave do Repositório do http para o SSH;
